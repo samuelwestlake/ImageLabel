@@ -1,0 +1,17 @@
+app:
+  fps: 20
+  size: [1400, 912]
+  title: Image Label Tool
+usr:
+  cat_cols:
+  - [255, 0, 0]
+  - [0, 255, 0]
+  - [0, 0, 255]
+  - [0, 0, 0]
+  cat_names: [Abbot, Scorpion, Quad, APC]
+  current_image: ../data/0540/542_0.jpg
+  frames: [0]
+  image_dir: ../data
+  out_file: ../output/labels.csv
+  scale: 2
+  seconds: 1
