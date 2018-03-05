@@ -9,7 +9,7 @@ usr:
   - [0, 0, 255]
   - [0, 0, 0]
   cat_names: [Abbot, Scorpion, Quad, APC]
-  current_image: ../data/0540/542_0.jpg
+  current_image: ../data/0740/747_0.jpg
   frames: [0]
   image_dir: ../data
   out_file: ../output/labels.csv

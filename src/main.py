@@ -10,7 +10,7 @@ import pygame
 import numpy as np
 
 # Custom libraries
-from src.keyboard import keyboard
+from keyboard import keyboard
 from fonts import lato
 import colors
 
